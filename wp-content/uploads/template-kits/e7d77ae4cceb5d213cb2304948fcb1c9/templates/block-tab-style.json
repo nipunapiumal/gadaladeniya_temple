@@ -1,0 +1,166 @@
+{
+    "version": "0.4",
+    "title": "Block tab style",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "6b1c5a6a",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1170,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "140",
+                    "right": "0",
+                    "bottom": "140",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "30",
+                    "bottom": "100",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "45",
+                    "right": "20",
+                    "bottom": "50",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "59505463",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "306c23a2",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "Description",
+                                        "tab_content": "Proin massa tortor ornare sit amet commodo et, eleifend vel odio. Integer porta orci ornare metus egestas, a venenatis felis finibus. Lorem ipsum dolor sit amet, consectetuer. Adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+                                        "_id": "6d59a7d"
+                                    },
+                                    {
+                                        "tab_title": "Additional Information",
+                                        "tab_content": "Proin massa tortor ornare sit amet commodo et, eleifend vel odio. Integer porta orci ornare metus egestas, a venenatis felis finibus. Lorem ipsum dolor sit amet, consectetuer. Adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+                                        "_id": "2bb5ecb"
+                                    },
+                                    {
+                                        "tab_title": "Review(s)",
+                                        "tab_content": "Eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+                                        "_id": "187f064"
+                                    }
+                                ],
+                                "border_width": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "background_color": "#FFFFFF",
+                                "tab_color": "#4A403C",
+                                "tab_active_color": "#FFA64D",
+                                "tab_typography_typography": "custom",
+                                "tab_typography_font_family": "Noto Sans",
+                                "tab_typography_font_size": {
+                                    "unit": "em",
+                                    "size": 1.125,
+                                    "sizes": []
+                                },
+                                "tab_typography_font_weight": "500",
+                                "tab_typography_text_transform": "none",
+                                "tab_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "tab_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "content_color": "#8F8A86",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Lora",
+                                "content_typography_font_size": {
+                                    "unit": "em",
+                                    "size": 1.125,
+                                    "sizes": []
+                                },
+                                "content_typography_font_size_tablet": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "content_typography_font_weight": "400",
+                                "content_typography_text_transform": "none",
+                                "content_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.722,
+                                    "sizes": []
+                                },
+                                "content_typography_line_height_tablet": {
+                                    "unit": "em",
+                                    "size": 1.4,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "tabs",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

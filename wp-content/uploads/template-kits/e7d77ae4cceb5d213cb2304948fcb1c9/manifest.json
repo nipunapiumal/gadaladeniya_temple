@@ -1,0 +1,2341 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "AxiomThemes Buddhist Temple Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block team style 4",
+            "screenshot": "screenshots\/block-team-style-4.jpg",
+            "source": "templates\/block-team-style-4.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-team-style-4\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block blog style 1 PRO",
+            "screenshot": "screenshots\/block-blog-style-1-pro.jpg",
+            "source": "templates\/block-blog-style-1-pro.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-blog-style-1-pro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block tab style",
+            "screenshot": "screenshots\/block-tab-style.jpg",
+            "source": "templates\/block-tab-style.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-tab-style\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block member info",
+            "screenshot": "screenshots\/block-member-info.jpg",
+            "source": "templates\/block-member-info.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-member-info\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block text with right image",
+            "screenshot": "screenshots\/block-text-with-right-image.jpg",
+            "source": "templates\/block-text-with-right-image.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-text-with-right-image\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block text with 3 image",
+            "screenshot": "screenshots\/block-text-with-3-image.jpg",
+            "source": "templates\/block-text-with-3-image.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-text-with-3-image\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block blog style 3 PRO",
+            "screenshot": "screenshots\/block-blog-style-3-pro.jpg",
+            "source": "templates\/block-blog-style-3-pro.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-blog-style-3-pro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer style 3",
+            "screenshot": "screenshots\/footer-style-3.jpg",
+            "source": "templates\/footer-style-3.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/footer-style-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block blog style 2 PRO",
+            "screenshot": "screenshots\/block-blog-style-2-pro.jpg",
+            "source": "templates\/block-blog-style-2-pro.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-blog-style-2-pro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block contact info style 1",
+            "screenshot": "screenshots\/block-contact-info-style-1.jpg",
+            "source": "templates\/block-contact-info-style-1.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-contact-info-style-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block contact info style 2",
+            "screenshot": "screenshots\/block-contact-info-style-2.jpg",
+            "source": "templates\/block-contact-info-style-2.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-contact-info-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block team style 1",
+            "screenshot": "screenshots\/block-team-style-1.jpg",
+            "source": "templates\/block-team-style-1.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-team-style-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block heading style 3",
+            "screenshot": "screenshots\/block-heading-style-3.jpg",
+            "source": "templates\/block-heading-style-3.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-heading-style-3\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block heading style 2",
+            "screenshot": "screenshots\/block-heading-style-2.jpg",
+            "source": "templates\/block-heading-style-2.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-heading-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block heading style 1",
+            "screenshot": "screenshots\/block-heading-style-1.jpg",
+            "source": "templates\/block-heading-style-1.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-heading-style-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Programs",
+            "screenshot": "screenshots\/programs.jpg",
+            "source": "templates\/programs.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/programs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Default",
+            "screenshot": "screenshots\/header-default.jpg",
+            "source": "templates\/header-default.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/?elementor_library=header-default",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer Default",
+            "screenshot": "screenshots\/footer-default.jpg",
+            "source": "templates\/footer-default.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/?elementor_library=footer-default-2",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/?elementor_library=single-post",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block services style",
+            "screenshot": "screenshots\/block-services-style.jpg",
+            "source": "templates\/block-services-style.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-services-style\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block team style 2",
+            "screenshot": "screenshots\/block-team-style-2.jpg",
+            "source": "templates\/block-team-style-2.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-team-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Mission (Pro)",
+            "screenshot": "screenshots\/our-mission-pro-.jpg",
+            "source": "templates\/our-mission-pro-.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/our-mission-pro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header style 1 PRO",
+            "screenshot": "screenshots\/header-style-1-pro.jpg",
+            "source": "templates\/header-style-1-pro.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/header-style-1-pro\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header style 2 PRO",
+            "screenshot": "screenshots\/header-style-2-pro.jpg",
+            "source": "templates\/header-style-2-pro.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/header-style-2-pro\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/home-2-pro\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3 (Pro)",
+            "screenshot": "screenshots\/home-3-pro-.jpg",
+            "source": "templates\/home-3-pro-.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/home-3-pro\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog (Pro)",
+            "screenshot": "screenshots\/blog-pro-.jpg",
+            "source": "templates\/blog-pro-.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/blog-pro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials (Pro)",
+            "screenshot": "screenshots\/testimonials-pro-.jpg",
+            "source": "templates\/testimonials-pro-.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/testimonials-pro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer style 2",
+            "screenshot": "screenshots\/footer-style-2.jpg",
+            "source": "templates\/footer-style-2.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/footer-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contacts 2",
+            "screenshot": "screenshots\/contacts-2.png",
+            "source": "templates\/contacts-2.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/contacts-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block text with 4 image",
+            "screenshot": "screenshots\/block-text-with-4-image.jpg",
+            "source": "templates\/block-text-with-4-image.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-text-with-4-image\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/shop\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contacts (Pro)",
+            "screenshot": "screenshots\/contacts-pro-.jpg",
+            "source": "templates\/contacts-pro-.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/contacts-pro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Classes",
+            "screenshot": "screenshots\/classes.jpg",
+            "source": "templates\/classes.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/classes\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header standard",
+            "screenshot": "screenshots\/header-standard.jpg",
+            "source": "templates\/header-standard.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/header-standard\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer style 1 PRO",
+            "screenshot": "screenshots\/footer-style-1-pro.jpg",
+            "source": "templates\/footer-style-1-pro.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/footer-style-1-pro\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block team style 3",
+            "screenshot": "screenshots\/block-team-style-3.jpg",
+            "source": "templates\/block-team-style-3.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/template-kit\/block-team-style-3\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/?elementor_library=single-product",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "WooCommerce",
+            "version": "4.1.0",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.2",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        }
+    ],
+    "images": [
+        {
+            "filename": "beautiful-woman-practising-yoga-holding-hands-in-n-VWMND38.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/beautiful-woman-practising-yoga-holding-hands-in-n-VWMND38-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-style-4.json",
+                    "name": "Block team style 4"
+                },
+                {
+                    "source": "templates\/block-team-style-1.json",
+                    "name": "Block team style 1"
+                },
+                {
+                    "source": "templates\/block-team-style-2.json",
+                    "name": "Block team style 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                },
+                {
+                    "source": "templates\/block-team-style-3.json",
+                    "name": "Block team style 3"
+                }
+            ],
+            "filesize": 207327,
+            "dimensions": [
+                1920,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VWMND38"
+        },
+        {
+            "filename": "yoga-girl-L4YC8XB.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/yoga-girl-L4YC8XB-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-style-4.json",
+                    "name": "Block team style 4"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                },
+                {
+                    "source": "templates\/block-team-style-3.json",
+                    "name": "Block team style 3"
+                }
+            ],
+            "filesize": 266781,
+            "dimensions": [
+                1920,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L4YC8XB"
+        },
+        {
+            "filename": "head.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/head.png",
+            "templates": [
+                {
+                    "source": "templates\/block-blog-style-1-pro.json",
+                    "name": "Block blog style 1 PRO"
+                },
+                {
+                    "source": "templates\/block-blog-style-2-pro.json",
+                    "name": "Block blog style 2 PRO"
+                },
+                {
+                    "source": "templates\/block-contact-info-style-1.json",
+                    "name": "Block contact info style 1"
+                },
+                {
+                    "source": "templates\/block-team-style-1.json",
+                    "name": "Block team style 1"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/block-team-style-2.json",
+                    "name": "Block team style 2"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/blog-pro-.json",
+                    "name": "Blog (Pro)"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/contacts-pro-.json",
+                    "name": "Contacts (Pro)"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 759,
+            "dimensions": [
+                28,
+                22
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "buddha.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/buddha.png",
+            "templates": [
+                {
+                    "source": "templates\/block-text-with-right-image.json",
+                    "name": "Block text with right image"
+                },
+                {
+                    "source": "templates\/block-services-style.json",
+                    "name": "Block services style"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2837,
+            "dimensions": [
+                54,
+                69
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "japanese-stone-lanterns-PY25KMW.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/japanese-stone-lanterns-PY25KMW-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-text-with-right-image.json",
+                    "name": "Block text with right image"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 342687,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PY25KMW"
+        },
+        {
+            "filename": "water-pond-in-hokkaido-shrine-temple-for-cleaning-SMHT62D.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/water-pond-in-hokkaido-shrine-temple-for-cleaning-SMHT62D-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-text-with-3-image.json",
+                    "name": "Block text with 3 image"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/block-text-with-4-image.json",
+                    "name": "Block text with 4 image"
+                }
+            ],
+            "filesize": 406011,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SMHT62D"
+        },
+        {
+            "filename": "lot-buddhas-statues-in-loumani-buddha-garden-hpa-a-BMTR9H3.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/lot-buddhas-statues-in-loumani-buddha-garden-hpa-a-BMTR9H3-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-text-with-3-image.json",
+                    "name": "Block text with 3 image"
+                },
+                {
+                    "source": "templates\/block-blog-style-3-pro.json",
+                    "name": "Block blog style 3 PRO"
+                },
+                {
+                    "source": "templates\/block-heading-style-2.json",
+                    "name": "Block heading style 2"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/blog-pro-.json",
+                    "name": "Blog (Pro)"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 186244,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BMTR9H3"
+        },
+        {
+            "filename": "door-gate-handle-of-thiksey-gompa-tibetan-buddhist-TGCFJMK-scaled.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/door-gate-handle-of-thiksey-gompa-tibetan-buddhist-TGCFJMK-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-text-with-3-image.json",
+                    "name": "Block text with 3 image"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                }
+            ],
+            "filesize": 886164,
+            "dimensions": [
+                1707,
+                2560
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "contemplating-monk-in-cambodia-PWUR3C6.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/contemplating-monk-in-cambodia-PWUR3C6-600x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-blog-style-3-pro.json",
+                    "name": "Block blog style 3 PRO"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 329547,
+            "dimensions": [
+                1920,
+                1293
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWUR3C6"
+        },
+        {
+            "filename": "buddhas-hand-PYJRY3R.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/buddhas-hand-PYJRY3R-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-blog-style-3-pro.json",
+                    "name": "Block blog style 3 PRO"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/block-text-with-4-image.json",
+                    "name": "Block text with 4 image"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 200539,
+            "dimensions": [
+                1920,
+                1272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PYJRY3R"
+        },
+        {
+            "filename": "fushimi-inari-shrine-gates-kyoto-YUE7R6Q.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/fushimi-inari-shrine-gates-kyoto-YUE7R6Q-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-blog-style-3-pro.json",
+                    "name": "Block blog style 3 PRO"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 139226,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUE7R6Q"
+        },
+        {
+            "filename": "logo-dark.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/logo-dark.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-3.json",
+                    "name": "Footer style 3"
+                }
+            ],
+            "filesize": 8428,
+            "dimensions": [
+                263,
+                62
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "telephone.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/telephone.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-info-style-1.json",
+                    "name": "Block contact info style 1"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                }
+            ],
+            "filesize": 1718,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "plane.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/plane.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-info-style-1.json",
+                    "name": "Block contact info style 1"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                }
+            ],
+            "filesize": 1548,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circular-clock.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/circular-clock.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-info-style-1.json",
+                    "name": "Block contact info style 1"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                }
+            ],
+            "filesize": 1485,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-5.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-info-style-2.json",
+                    "name": "Block contact info style 2"
+                },
+                {
+                    "source": "templates\/contacts-pro-.json",
+                    "name": "Contacts (Pro)"
+                }
+            ],
+            "filesize": 4455,
+            "dimensions": [
+                140,
+                140
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-6.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-info-style-2.json",
+                    "name": "Block contact info style 2"
+                },
+                {
+                    "source": "templates\/contacts-pro-.json",
+                    "name": "Contacts (Pro)"
+                }
+            ],
+            "filesize": 4272,
+            "dimensions": [
+                140,
+                140
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-7.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/block-contact-info-style-2.json",
+                    "name": "Block contact info style 2"
+                },
+                {
+                    "source": "templates\/contacts-pro-.json",
+                    "name": "Contacts (Pro)"
+                }
+            ],
+            "filesize": 4265,
+            "dimensions": [
+                140,
+                140
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-woman-relaxing-on-yoga-mat-P7E9W9U.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/young-woman-relaxing-on-yoga-mat-P7E9W9U-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-style-1.json",
+                    "name": "Block team style 1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                },
+                {
+                    "source": "templates\/block-team-style-3.json",
+                    "name": "Block team style 3"
+                }
+            ],
+            "filesize": 328241,
+            "dimensions": [
+                1920,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7E9W9U"
+        },
+        {
+            "filename": "a-beautiful-girl-is-engaged-in-a-yoga-studio-Q3XZ4BR.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/a-beautiful-girl-is-engaged-in-a-yoga-studio-Q3XZ4BR-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-style-1.json",
+                    "name": "Block team style 1"
+                },
+                {
+                    "source": "templates\/block-team-style-2.json",
+                    "name": "Block team style 2"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                },
+                {
+                    "source": "templates\/block-team-style-3.json",
+                    "name": "Block team style 3"
+                }
+            ],
+            "filesize": 190939,
+            "dimensions": [
+                1920,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q3XZ4BR"
+        },
+        {
+            "filename": "red-and-yellow-lanterns-PHMBL9V.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/red-and-yellow-lanterns-PHMBL9V-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-heading-style-3.json",
+                    "name": "Block heading style 3"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/block-text-with-4-image.json",
+                    "name": "Block text with 4 image"
+                }
+            ],
+            "filesize": 287601,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHMBL9V"
+        },
+        {
+            "filename": "prayer-wheels-in-high-himalaya-mountains-nepal-vil-PZTLRPF.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/prayer-wheels-in-high-himalaya-mountains-nepal-vil-PZTLRPF-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-heading-style-1.json",
+                    "name": "Block heading style 1"
+                },
+                {
+                    "source": "templates\/contacts-pro-.json",
+                    "name": "Contacts (Pro)"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 195256,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZTLRPF"
+        },
+        {
+            "filename": "vector-block.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/vector-block.png",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 1981,
+            "dimensions": [
+                64,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coconut-oil-lamps-in-temple-QNZ5WFT.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/coconut-oil-lamps-in-temple-QNZ5WFT-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 241040,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QNZ5WFT"
+        },
+        {
+            "filename": "incense-sticks-in-pagoda-PV84EE9.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/incense-sticks-in-pagoda-PV84EE9-600x402.jpg",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 229699,
+            "dimensions": [
+                1920,
+                1285
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PV84EE9"
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/05\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 3985,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 3483,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 4030,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 4154,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dashed-line.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/dashed-line-600x28.png",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 1763,
+            "dimensions": [
+                1171,
+                55
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "autumn-foliage-at-daigo-ji-temple-kyoto-japan-DNMX6GE.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/autumn-foliage-at-daigo-ji-temple-kyoto-japan-DNMX6GE-600x384.jpg",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/contacts-pro-.json",
+                    "name": "Contacts (Pro)"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 410809,
+            "dimensions": [
+                1920,
+                1229
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DNMX6GE"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-default.json",
+                    "name": "Header Default"
+                },
+                {
+                    "source": "templates\/header-style-1-pro.json",
+                    "name": "Header style 1 PRO"
+                },
+                {
+                    "source": "templates\/header-style-2-pro.json",
+                    "name": "Header style 2 PRO"
+                },
+                {
+                    "source": "templates\/header-standard.json",
+                    "name": "Header standard"
+                }
+            ],
+            "filesize": 9892,
+            "dimensions": [
+                263,
+                62
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "vertical-line.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/vertical-line.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-default.json",
+                    "name": "Footer Default"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 2868,
+            "dimensions": [
+                424,
+                233
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-footer.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/logo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-default.json",
+                    "name": "Footer Default"
+                },
+                {
+                    "source": "templates\/footer-style-2.json",
+                    "name": "Footer style 2"
+                },
+                {
+                    "source": "templates\/footer-style-1-pro.json",
+                    "name": "Footer style 1 PRO"
+                }
+            ],
+            "filesize": 9899,
+            "dimensions": [
+                160,
+                118
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "zoo.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/zoo.png",
+            "templates": [
+                {
+                    "source": "templates\/block-services-style.json",
+                    "name": "Block services style"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2562,
+            "dimensions": [
+                68,
+                68
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "om.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/om.png",
+            "templates": [
+                {
+                    "source": "templates\/block-services-style.json",
+                    "name": "Block services style"
+                },
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2653,
+            "dimensions": [
+                68,
+                68
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "vector-block-orangre.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/vector-block-orangre.png",
+            "templates": [
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2404,
+            "dimensions": [
+                64,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "fushimi-inari-shrine-kyoto-japan-2R4YP95-scaled.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/fushimi-inari-shrine-kyoto-japan-2R4YP95-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                }
+            ],
+            "filesize": 634837,
+            "dimensions": [
+                1707,
+                2560
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "burning-incense-sticks-in-a-buddhist-temple-in-tha-A6ZWVFN.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/burning-incense-sticks-in-a-buddhist-temple-in-tha-A6ZWVFN-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                }
+            ],
+            "filesize": 225483,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-A6ZWVFN"
+        },
+        {
+            "filename": "buddha-closeup-PH3BEYW.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/buddha-closeup-PH3BEYW-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 255000,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PH3BEYW"
+        },
+        {
+            "filename": "young-female-meditating-on-stone-floor-4NQ9C7G.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/young-female-meditating-on-stone-floor-4NQ9C7G-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                }
+            ],
+            "filesize": 250499,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4NQ9C7G"
+        },
+        {
+            "filename": "ancient-borobudur-buddhist-temple-java-indonesia-PW4CF5J.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/ancient-borobudur-buddhist-temple-java-indonesia-PW4CF5J-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                },
+                {
+                    "source": "templates\/block-text-with-4-image.json",
+                    "name": "Block text with 4 image"
+                }
+            ],
+            "filesize": 357830,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW4CF5J"
+        },
+        {
+            "filename": "smudging-dried-sage-bundle-close-up-W52BBCV.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/smudging-dried-sage-bundle-close-up-W52BBCV-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 142937,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-W52BBCV"
+        },
+        {
+            "filename": "vector-block-min.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/vector-block-min.png",
+            "templates": [
+                {
+                    "source": "templates\/our-mission-pro-.json",
+                    "name": "Our Mission (Pro)"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/blog-pro-.json",
+                    "name": "Blog (Pro)"
+                },
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 640,
+            "dimensions": [
+                29,
+                22
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ganesha.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/ganesha.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                }
+            ],
+            "filesize": 4515,
+            "dimensions": [
+                66,
+                69
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "old-temple-in-the-middle-of-vietnamese-nature-Y2NZMJ3-1-e1587260605286.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/old-temple-in-the-middle-of-vietnamese-nature-Y2NZMJ3-1-e1587260605286-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 419542,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y2NZMJ3"
+        },
+        {
+            "filename": "shape.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/shape.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 752,
+            "dimensions": [
+                23,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "pattern-2.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/pattern-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 752,
+            "dimensions": [
+                23,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "buddhist-prayer-flags-YQUDZ4C.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/buddhist-prayer-flags-YQUDZ4C-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 216415,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YQUDZ4C"
+        },
+        {
+            "filename": "two-monks-meet-and-salute-in-a-buddhist-monastery-P7LWPNE.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/two-monks-meet-and-salute-in-a-buddhist-monastery-P7LWPNE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 188380,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7LWPNE"
+        },
+        {
+            "filename": "old-temple-in-the-middle-of-vietnamese-nature-Y2NZMJ3.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/old-temple-in-the-middle-of-vietnamese-nature-Y2NZMJ3-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/blog-pro-.json",
+                    "name": "Blog (Pro)"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 289685,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y2NZMJ3"
+        },
+        {
+            "filename": "folios-of-old-manuscripts-in-library-of-thiksey-mo-B3942UY.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/folios-of-old-manuscripts-in-library-of-thiksey-mo-B3942UY-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 294568,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-B3942UY"
+        },
+        {
+            "filename": "plant.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/plant.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2257,
+            "dimensions": [
+                55,
+                69
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shiva.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/shiva.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3-pro-.json",
+                    "name": "Home 3 (Pro)"
+                }
+            ],
+            "filesize": 3209,
+            "dimensions": [
+                62,
+                69
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dashed-line-min.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/dashed-line-min.png",
+            "templates": [
+                {
+                    "source": "templates\/blog-pro-.json",
+                    "name": "Blog (Pro)"
+                }
+            ],
+            "filesize": 862,
+            "dimensions": [
+                370,
+                55
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "chinese-tea-ceremony-BX6LTZQ.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/chinese-tea-ceremony-BX6LTZQ-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-pro-.json",
+                    "name": "Blog (Pro)"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 243404,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BX6LTZQ"
+        },
+        {
+            "filename": "quota.png",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/quota.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials-pro-.json",
+                    "name": "Testimonials (Pro)"
+                }
+            ],
+            "filesize": 3700,
+            "dimensions": [
+                140,
+                140
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "kumkum-powder-india-4KPNJWH.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/kumkum-powder-india-4KPNJWH-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 163823,
+            "dimensions": [
+                1920,
+                1274
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4KPNJWH"
+        },
+        {
+            "filename": "contemplating-monk-in-cambodia-PWUR3C6-1-e1587038573316.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/contemplating-monk-in-cambodia-PWUR3C6-1-e1587038573316-600x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 411025,
+            "dimensions": [
+                1920,
+                1293
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWUR3C6"
+        },
+        {
+            "filename": "coconut-oil-lamps-in-temple-QNZ5WFT-1-e1587158049269.jpg",
+            "thumbnail_url": "http:\/\/template-kit.axiomthemes.com\/buddhist-temple\/wp-content\/uploads\/sites\/15\/2020\/04\/coconut-oil-lamps-in-temple-QNZ5WFT-1-e1587158049269-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 243349,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QNZ5WFT"
+        }
+    ]
+}
